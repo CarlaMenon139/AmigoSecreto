@@ -1,0 +1,108 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;  /* Fundo suave para o corpo da página */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 500px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #d63384;
+}
+
+.imagem-decorativa {
+    width: 100%;
+    max-width: 300px;
+    margin: 10px auto;
+    display: block;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.botoes {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+button {
+    background: #d63384;
+    color: white;
+    border: none;
+    padding: 15px 20px;
+    margin: 10px;
+    width: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background: #ffebf0;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+/* Estilo para a parte do resultado */
+#resultado {
+    background-color: #e9f7fb; /* Fundo azul claro */
+    border: 2px solid #d0e7f9; /* Borda suave */
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+#resultado h2 {
+    color: #007bff; /* Cor azul */
+    margin-bottom: 10px;
+}
+
+#resultado li {
+    background: #d1e7f5; /* Fundo ligeiramente mais escuro */
+    color: #0056b3; /* Texto em azul escuro */
+    border: 1px solid #c0d8f0; /* Borda mais suave */
+}
+
+/* Adicionando fundo para as laterais da página */
+body {
+    background: #f0f8ff;  /* Fundo azul claro para as laterais */
+}
+
+.container {
+    background: #ffffff; /* Fundo branco para a área central */
+}
+
+/* Estilo das bordas para suavizar a parte externa */
+#resultado {
+    background-color: #e9f7fb;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Sombra suave */
+}
+
