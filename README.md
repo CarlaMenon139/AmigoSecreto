@@ -18,11 +18,9 @@ Garantir que ninguém tire a si mesmo
 
 🛠️ Tecnologias Utilizadas
 
-JavaScript
-
-
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50">
 
 
 📋 Como Usar
@@ -41,12 +39,12 @@ Os resultados aparecerão na tela.
 
 📂 Estrutura do Projeto
 
-📁 amigo-secreto/ ├── 📄 index.html # Página principal ├── 📄 style.css # Estilos do projeto ├── 📄 app.js # Código JavaScript └── 📁 assets/ # Imagens e ícones
+📁 amigo-secreto/
+├── 📄 index.html  # Página principal
+├── 📄 style.css   # Estilos do projeto
+├── 📄 app.js      # Código JavaScript
+└── 📁 assets/     # Imagens e ícones
 
 🎯 Melhorias Futuras
 
 Adicionar a opção de remover nomes da lista
-
-Criar uma interface mais interativa
-
-Permitir salvar e compartilhar os resultados
